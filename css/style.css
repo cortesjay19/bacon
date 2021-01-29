@@ -1,0 +1,21 @@
+* {
+  font-family: 'Rye', cursive;
+  background-image: url(cowboy.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h1 {
+  color: #C20006;
+  font-size: 60px;
+  background: none;
+  text-shadow: 5px 8px 12px #000;
+}
+
+p {
+  background: none;
+}
+
+img {
+  background: none;
+}
